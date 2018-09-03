@@ -1,0 +1,2 @@
+# eosonebetter.io
+eosone proxy
